@@ -7,7 +7,7 @@
         2811 36 Street<br />
         Edmonton AB T6L3Y6<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        780-465-7257
     </address>
 
     <address>
