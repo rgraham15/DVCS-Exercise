@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>Rosemary Graham's Contact Information</h3>
     <address>
         2811 36 Street<br />
         Edmonton AB T6L3Y6<br />
